@@ -1,0 +1,57 @@
+
+
+<?php $__env->startSection('title', 'Intranet'); ?>
+
+<?php $__env->startSection('content'); ?>
+<div class="page-banner bg-img bg-img-parallax overlay-dark" style="background-image: url(<?php echo e(asset('assets/img/bg_image_3.jpg')); ?>);">
+  <div class="container h-100">
+    <div class="row justify-content-center align-items-center h-100">
+      <div class="col-lg-8">
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb breadcrumb-dark bg-transparent justify-content-center py-0"></ol>
+            <li class="breadcrumb-item"><a href="index.html">Inicio</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Intranet</li>
+          </ol>
+        </nav>
+        <h1 class="fg-white text-center">Intranet</h1>
+      </div>
+    </div>
+  </div>
+</div> <!-- .page-banner -->
+<div class="page-section">
+    <div class="container">
+        <div class="text-center">
+            <h2 class="title-section mb-3">INICIAR SESIÓN</h2>
+    
+            <p>“En construcción”</p>
+
+        </div>
+        <div class="row justify-content-center mt-5">
+            <div class="col-lg-8">
+              <div class="card">
+                <div class="card-header">
+                  Ups...
+                </div>
+                <div class="card-body">
+                  <blockquote class="blockquote mb-0">
+                    <p>Estamos trabajando para mejorar nuestros servicios.</p>
+                    <footer class="blockquote-footer">Pronto estaremos en funcionamiento. <cite title="Source Title">Gracias</cite></footer>
+                  </blockquote>
+                </div>
+              </div>
+            </div>
+        </div>
+    </div> <!-- .container -->
+</div> <!-- .page-section -->
+
+
+
+<?php $__env->stopSection(); ?>
+
+<?php $__env->startSection('css'); ?>
+
+<?php $__env->stopSection(); ?>
+
+<?php $__env->startSection('js'); ?>
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('index', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH D:\dev\laravel\allgroup-app\resources\views/cons.blade.php ENDPATH**/ ?>
