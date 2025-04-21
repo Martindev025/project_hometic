@@ -23,7 +23,7 @@ return [
 
         'ask' => '“Si tienes un requerimiento, no dudes en contactarnos”',
 
-        
+
         '' => '',
         '' => '',
         '' => '',
@@ -36,7 +36,7 @@ return [
 
     'header' => [
         'home' => 'Inicio',
-        
+
         'about' => 'Acerca de nosotros',
             'our' => 'Nuestros Servicios ',
                 'doc' => 'Servicios de consultoría en gestión documental',
@@ -68,7 +68,7 @@ return [
             'title-text' => 'Dedicados constantemente a mejorar la gestión y preservación documental
                             <br>
                             en las organizaciones.',
-        
+
         'about' => 'Acerca de nosotros',
             'about-text' => 'Nuestro objetivo es crear soluciones de <span class="resaltado">transformación digital</span>
             brindando servicios integrales que le permitan <span class="resaltado">evolucionar a las entidades
@@ -90,7 +90,7 @@ return [
         'national' => 'Nacional',
 
         'visits' => 'Visitas:',
-        
+
         'than' => 'Mas de',
         'ages' => '3 años',
         'exp' => 'de Experiencia',
@@ -102,7 +102,7 @@ return [
         'title' => 'Contáctanos',
 
         'direc' => 'Dirección:',
-        
+
         'edif' => 'Edificio Ecotorre Oficina 306',
 
         'phone' => 'Teléfonos:',
@@ -129,24 +129,24 @@ return [
             'what-text' => 'Fundada en 2023, Hometic se ha posicionado como una empresa líder en soluciones de gestión documental, ofreciendo servicios integrales para la administración y preservación de información.
                         <br>
                         <br>
-                        Nos especializamos en la custodia y organización de archivos, gestión documental y preservación digital. 
+                        Nos especializamos en la custodia y organización de archivos, gestión documental y preservación digital.
                         Además, contamos con un software propio y especializado para la preservación digital, que optimiza todos nuestros procesos y asegura la integridad y accesibilidad de la información a largo plazo.',
 
         'mis' => 'Misión',
-            'mis-text' => 'Hometic se dedica a ofrecer soluciones integrales de gestión y preservación documental, proporcionando servicios eficientes, seguros y confiables tanto para el sector estatal como privado. 
+            'mis-text' => 'Hometic se dedica a ofrecer soluciones integrales de gestión y preservación documental, proporcionando servicios eficientes, seguros y confiables tanto para el sector estatal como privado.
                         Nos comprometemos a facilitar el acceso, organización y protección de la información, garantizando su disponibilidad y autenticidad para fomentar una gestión documental efectiva y sostenible.',
 
         'vis' => 'Visión',
-            'vis-text' => 'Ser reconocidos como líderes en la gestión y preservación documental en el ámbito estatal y privado, destacándonos por nuestra innovación en softwares, calidad de servicio y compromiso con la protección y accesibilidad de la información. 
+            'vis-text' => 'Ser reconocidos como líderes en la gestión y preservación documental en el ámbito estatal y privado, destacándonos por nuestra innovación en softwares, calidad de servicio y compromiso con la protección y accesibilidad de la información.
                         Aspiramos a transformar la manera en que las organizaciones manejan sus documentos, contribuyendo al desarrollo de una sociedad más ordenada, eficiente y transparente.',
 
         'why' => '¿Por qué elegirnos?',
-            'why-text' => 'Hometic se dedica a ofrecer soluciones integrales de gestión y preservación documental, proporcionando servicios eficientes, seguros y confiables tanto para el sector estatal como privado. 
+            'why-text' => 'Hometic se dedica a ofrecer soluciones integrales de gestión y preservación documental, proporcionando servicios eficientes, seguros y confiables tanto para el sector estatal como privado.
                         Nos comprometemos a facilitar el acceso, organización y protección de la información, garantizando su disponibilidad y autenticidad para fomentar una gestión documental efectiva y sostenible.',
 
         'exp' => 'Experiencia y Especialización',
             'exp-text' => 'Contamos con un equipo altamente capacitado en gestión y preservación documental, tanto para el sector estatal como privado.',
-            
+
         'inno' => 'Tecnología Propia e Innovadora',
             'inno-text' => 'Nuestro software de preservación digital, desarrollado internamente, ofrece soluciones eficientes y adaptadas a las necesidades de cada sector.',
 
@@ -155,13 +155,13 @@ return [
     ],
 
     'consul' => [
-        'title' => 'Software de 
-                    <br> 
+        'title' => 'Software de
+                    <br>
                     gestión documental  ',
 
         'what' => '¿Qué es un software de gestión documental?',
             'what-text' => 'Un software de gestión documental es una herramienta tecnológica diseñada para ayudar a las organizaciones a gestionar, almacenar, organizar y acceder a sus documentos e información digital de manera eficiente y segura.',
-            
+
         'sgdea' => 'Jonas SGDEA',
             'sgdea-text' => 'Jonas SGDEA es un aplicativo web desarrollado en las versiones más recientes de los lenguajes PHP (Versión 8.2), JQuery, CSS3 entre otras librerías, y, bases de datos como PostgreSQL 14.9 que permiten que este aplicativo sea un sistema de gestión de base de datos relacional orientado a objetos y de código abierto, estas ventajas mantienen la iniciativa de evitar costos en licenciamientos (al utilizar código abierto).',
 
@@ -183,6 +183,9 @@ return [
 
     'cust' => [
         'title' => 'Custodia de Archivos',
+        'commitment' => 'Nuestro compromiso con la Seguridad y Confidencialidad de la Información',
+        'promise' => 'Nuestra Promesa',
+        'dedication' => 'Nos dedicamos a garantizar la confidencialidad y seguridad de la información contenida en los documentos, ya sea en formato físico o digital.',
     ],
 
     'preserv' => [
@@ -193,11 +196,11 @@ return [
         'title' => 'Gestión Documental',
 
         'funcion' => '¿Cuál es su funcionalidad?',
-            'funcion-text' => 'Hace referencia a los procesos y recursos utilizados para organizar, almacenar y recuperar documentos, automatizar los flujos de trabajo dentro de una compañía. 
+            'funcion-text' => 'Hace referencia a los procesos y recursos utilizados para organizar, almacenar y recuperar documentos, automatizar los flujos de trabajo dentro de una compañía.
                             Los documentos pueden estar en formato impreso o digital y estos pueden incluir contratos, formularios, facturas, solicitudes de empleo, información sobre inscripciones en entes gubernamentales y entre otros registros.',
 
         'plan' => 'Planeación',
-            'plan-text' => 'Conjunto de actividades encaminadas a la planeación, generación y valoración de los documentos de la entidad, en cumplimiento con el contexto administrativo, legal, funcional y técnico. 
+            'plan-text' => 'Conjunto de actividades encaminadas a la planeación, generación y valoración de los documentos de la entidad, en cumplimiento con el contexto administrativo, legal, funcional y técnico.
                         Comprende la creación y diseño de formas, formularios y documentos, análisis de procesos, análisis diplomático y su registro en el sistema de gestión documental.',
 
         'tram' => 'Gestión y Trámite',
@@ -205,7 +208,7 @@ return [
 
         'document' => 'Disposición de Documentos',
             'document-text' => 'Selección de los documentos en cualquier etapa del archivo, con miras a su conservación temporal, permanente o a su eliminación, de acuerdo con lo establecido en las tablas de retención documental o en las tablas de valoración documental.',
-            
+
         'transfer' => 'Transferencia',
             'transfer-text' => 'Conjunto de operaciones adoptadas por la entidad para transferir los documentos durante las fases de archivo, verificando la estructura, la validación del formato de generación, la migración, refreshing, emulación o conversión, los metadatos técnicos de formato, los metadatos de preservación y los metadatos descriptivos.',
 
@@ -219,12 +222,12 @@ return [
     ],
 
     'soft-pre' => [
-            'title' => 'Software de 
-                    <br> 
+            'title' => 'Software de
+                    <br>
                     preservación digital',
 
         'ise' => '¡Preserva tu Información con Seguridad y Eficiencia!',
-            'ise-subtitle' => 'Descubre cómo nuestro software especializado garantiza 
+            'ise-subtitle' => 'Descubre cómo nuestro software especializado garantiza
                                 <br>
                             <span class="resaltado">la integridad y accesibilidad de tus documentos digitales a largo plazo.</span>',
                 'ise-text' => 'Nuestro software de preservación digital está diseñado para satisfacer las necesidades de organizaciones que buscan asegurar la integridad y accesibilidad de sus documentos digitales a largo plazo. Con tecnología avanzada y medidas de seguridad de última generación, Hometic ofrece una solución confiable y eficiente para la gestión documental.',
@@ -242,14 +245,14 @@ return [
                 'principal-text-5' => 'Asegura que tus prácticas de preservación cumplan con las normativas y regulaciones vigentes.',
 
         'transform' => 'Transforma tu gestión documental con la seguridad y eficiencia que solo Hometic puede ofrecer.',
-            'transform-text' => 'El software verifica regularmente la integridad de los archivos para detectar posibles cambios no autorizados o corrupción de datos, ante la obsolescencia de formatos o tecnologías, el software facilita la migración controlada de los archivos a nuevos formatos o sistemas compatibles, evitando la pérdida de acceso a la información. 
+            'transform-text' => 'El software verifica regularmente la integridad de los archivos para detectar posibles cambios no autorizados o corrupción de datos, ante la obsolescencia de formatos o tecnologías, el software facilita la migración controlada de los archivos a nuevos formatos o sistemas compatibles, evitando la pérdida de acceso a la información.
                             <br>
                             <br>
                             Incorpora metadatos detallados para proporcionar contexto sobre los archivos, incluyendo información sobre su origen, contenido y contexto histórico, permite establecer y gestionar con precisión los permisos de acceso, asegurando que solo usuarios autorizados puedan acceder a la información preservada.',
 
         'down' => 'Descargar Brochure',
     ],
-        
+
     'service-arch' => [
         'title' => 'Servicio Archivistico',
     ],
@@ -273,7 +276,7 @@ return [
                             - Licencias de software',
 
         'conect' => 'Conectividad',
-            'conect-text' => 'Proveemos todos los elementos de conectividad y la infraestructura para esto. 
+            'conect-text' => 'Proveemos todos los elementos de conectividad y la infraestructura para esto.
                         <p>
                         <br>
                         - Cableado Estructurado
@@ -288,7 +291,7 @@ return [
 
     'help' => [
         'title' => 'Mesa de Ayuda',
-        
+
         'help' => 'Mesa De Ayuda',
             'help-text' => 'Buscamos dar soporte a diferentes niveles de usuarios de una empresa y debe proveer a los usuarios un punto central para brindar ayuda en varios temas.
                         <br>
@@ -296,7 +299,7 @@ return [
 
         'prevent' => 'Mantenimientos Preventivos',
             'prevent-text' => 'Hemos diseñado diferentes opciones para extender la vida útil de su infraestructura de TI a través de un mantenimiento proactivo continuo con:
-                            <br>    
+                            <br>
                             Análisis de rendimiento
                             <br>
                             Validación de funcionalidad
@@ -317,13 +320,13 @@ return [
             'aplications-text' => 'Únase a cientos de clientes entusiastas que construyen, implementan y mantienen aplicaciones modernas y con píxeles perfectos de cualquier complejidad.',
 
         'free' => 'Comience hoy gratis',
-            'free-text' => 'Regístrese hoy para obtener una cuenta WEM gratuita y para un curso de capacitación básico en línea WEM gratuito. 
+            'free-text' => 'Regístrese hoy para obtener una cuenta WEM gratuita y para un curso de capacitación básico en línea WEM gratuito.
                         La academia WEM también ofrece más cursos avanzados de desarrollo e integración en varios formatos y geografías.',
     ],
 
     'monitor' => [
         'title' => 'TEC-TRACKER',
-            'title-text' => 'TEC-TRACKER, nuestra solución de monitoreo, ofrece análisis e información profundos para ayudar a medir y optimizar la productividad entre las personas, los procesos y la tecnología. 
+            'title-text' => 'TEC-TRACKER, nuestra solución de monitoreo, ofrece análisis e información profundos para ayudar a medir y optimizar la productividad entre las personas, los procesos y la tecnología.
                         Nuestro proceso seguro y eficiente de recopilación y entrega de datos funciona para brindar visibilidad inmediata y análisis avanzados mientras mantiene sus datos protegidos, encriptados y privados.
                         El agente de TEC-TRACKER, funciona en equipos de cómputo fijos o en escritorios virtuales.',
 
@@ -334,37 +337,37 @@ return [
         'title' => 'ITSM',
 
         'it' => 'Las mejores herramientas IT que encontraras.',
-            'it-text' => 'Descubre nuestra completa solución para la gestión de servicios de TI. 
-                        Planifica liberaciones eficientes, gestiona problemas vinculados a incidentes, y simplifica la planificación y reversión de cambios con nuestra solución de ITSM en línea. 
-                        Toma decisiones informadas con nuestras potentes herramientas de generación de informes, y gestiona todos tus servicios desde una única ventana gracias a nuestras integraciones. 
-                        Además, transforma tu Service Desk en un juego motivador con la gamificación. 
+            'it-text' => 'Descubre nuestra completa solución para la gestión de servicios de TI.
+                        Planifica liberaciones eficientes, gestiona problemas vinculados a incidentes, y simplifica la planificación y reversión de cambios con nuestra solución de ITSM en línea.
+                        Toma decisiones informadas con nuestras potentes herramientas de generación de informes, y gestiona todos tus servicios desde una única ventana gracias a nuestras integraciones.
+                        Además, transforma tu Service Desk en un juego motivador con la gamificación.
                         ¡Optimiza tu gestión de servicios con nosotros!',
 
         'ask' => 'Alguna pregunta? Contáctanos!',
             'problem' => 'Gestión de problemas',
-                'problem-text' => 'Mejora la resolución de problemas con nuestra plataforma. Aísla y vincula problemas a incidentes actuales o pasados, realiza un análisis de causa raíz en la línea temporal de eventos de nuestra herramienta de gestión de servicios basada en ITIL, y reduce al mínimo las perturbaciones en tu negocio. 
-                                <br> 
-                                Descubre cómo nuestra solución agiliza y optimiza el proceso, garantizando una gestión eficaz de problemas. 
+                'problem-text' => 'Mejora la resolución de problemas con nuestra plataforma. Aísla y vincula problemas a incidentes actuales o pasados, realiza un análisis de causa raíz en la línea temporal de eventos de nuestra herramienta de gestión de servicios basada en ITIL, y reduce al mínimo las perturbaciones en tu negocio.
+                                <br>
+                                Descubre cómo nuestra solución agiliza y optimiza el proceso, garantizando una gestión eficaz de problemas.
                                 <br>',
             'gestion' => 'Gestión de cambios',
-                'gestion-text' => 'Optimiza la gestión de cambios con nuestra solución de ITSM en línea. 
-                                <br>  
-                                Planifica y revierte cambios de manera eficiente, permitiendo que los miembros clave evalúen y aprueben las modificaciones. 
-                                <br> 
-                                Además, analiza y mitiga riesgos al evaluar los nuevos cambios antes de su implementación. 
-                                <br> 
-                                Descubre cómo nuestra plataforma facilita y asegura un proceso de cambios más efectivo. 
-                                <br> 
+                'gestion-text' => 'Optimiza la gestión de cambios con nuestra solución de ITSM en línea.
+                                <br>
+                                Planifica y revierte cambios de manera eficiente, permitiendo que los miembros clave evalúen y aprueben las modificaciones.
+                                <br>
+                                Además, analiza y mitiga riesgos al evaluar los nuevos cambios antes de su implementación.
+                                <br>
+                                Descubre cómo nuestra plataforma facilita y asegura un proceso de cambios más efectivo.
+                                <br>
                                 ¡Maximiza el control y la eficiencia en tu gestión de ITSM con nosotros!',
             'inform' => 'Generación de informes',
-                'inform-text' => 'Potencia la toma de decisiones con nuestra plataforma. 
-                                <br> 
-                                Identifica cuellos de botella, toma decisiones informadas, supervisa el rendimiento de tu sistema de gestión de servicios de TI y mejora la prestación de servicios. 
-                                <br> 
-                                Utiliza nuestras funcionalidades de generación de informes, tanto predefinidas como personalizadas, para optimizar tu enfoque. 
-                                <br> 
-                                Descubre cómo nuestra solución te permite maximizar la eficiencia en la gestión de servicios de TI. 
-                                <br> 
+                'inform-text' => 'Potencia la toma de decisiones con nuestra plataforma.
+                                <br>
+                                Identifica cuellos de botella, toma decisiones informadas, supervisa el rendimiento de tu sistema de gestión de servicios de TI y mejora la prestación de servicios.
+                                <br>
+                                Utiliza nuestras funcionalidades de generación de informes, tanto predefinidas como personalizadas, para optimizar tu enfoque.
+                                <br>
+                                Descubre cómo nuestra solución te permite maximizar la eficiencia en la gestión de servicios de TI.
+                                <br>
                                 ¡Haz de la mejora continua una realidad con nosotros!',
     ],
 
@@ -372,11 +375,11 @@ return [
         'title' => 'Servicios de backup en la nube',
 
         'segurity' => 'Seguridad y protección en la nube',
-            'segurity-text' => 'Garantiza la protección externa de cualquier carga de trabajo con nuestra solución. 
-                            Crea copias de seguridad seguras para discos, particiones, servidores y dispositivos móviles en el entorno confiable de Acronis Cyber Cloud. 
-                            Minimiza las interrupciones con recuperaciones rápidas: todo, desde archivos y carpetas hasta aplicaciones o un sistema completo, puede recuperarse fácilmente desde la nube. 
-                            Además, obtén un mayor control sobre las copias de seguridad en la nube al elegir la ubicación del centro de datos de nivel IV, conforme a la normativa SSAE-18, donde se almacenan tus datos. 
-                            Descubre cómo nuestra solución asegura la continuidad y seguridad de tus cargas de trabajo. 
+            'segurity-text' => 'Garantiza la protección externa de cualquier carga de trabajo con nuestra solución.
+                            Crea copias de seguridad seguras para discos, particiones, servidores y dispositivos móviles en el entorno confiable de Acronis Cyber Cloud.
+                            Minimiza las interrupciones con recuperaciones rápidas: todo, desde archivos y carpetas hasta aplicaciones o un sistema completo, puede recuperarse fácilmente desde la nube.
+                            Además, obtén un mayor control sobre las copias de seguridad en la nube al elegir la ubicación del centro de datos de nivel IV, conforme a la normativa SSAE-18, donde se almacenan tus datos.
+                            Descubre cómo nuestra solución asegura la continuidad y seguridad de tus cargas de trabajo.
                             ¡Protege y recupera con eficacia con nosotros!',
 
         '321' => 'La regla 3-2-1 de copia de seguridad de Acronis',
@@ -400,7 +403,7 @@ return [
         'content-1' => 'CONGRESO FEDERACION NACIONAL DE MUNICIPIOS-CARTAGENA 2024',
             'content-text-1' => 'Proximamente.....',
     ],
-	
+
 	'request' => [
         'title' => 'Bienvenido(a) al centro de Soporte al cliente',
             'text-title' => '¿Cómo podemos ayudarlo?',

@@ -1578,7 +1578,7 @@ a.fg-light:hover, a.fg-light:focus {
     padding: 6px 12px;
   }
 }
-  
+
 .nuestros-servicios {
   padding: 5% 7% 0px 7%;
   text-align: center;
@@ -1644,7 +1644,7 @@ a.fg-light:hover, a.fg-light:focus {
   border-radius: 5px;
   width: 30%;
   transition: background-color 0.3s;
-  
+
 }
 
 .nuestros-servicios button:hover {
@@ -1693,30 +1693,30 @@ a.fg-light:hover, a.fg-light:focus {
     margin: 0 auto;
     font-size: 14px;
   }
-  
+
   .servicio.reverso {
     flex-direction: column-reverse;
 }
 }
 @media (min-width: 1400px) {
-  .nuestros-servicios h1 { 
+  .nuestros-servicios h1 {
     font-size: 80px;
    }
-   
+
    .servicio p {
     font-size: 18px;
    }
 }
 
 /* Box Productos */
-.box-ti{    
+.box-ti{
   color: #00bcd4;
   margin-bottom: 50px;
   font-size: 60px;
   font-weight: 800;
   text-align: center;
 }
- 
+
 .unique-container {
   display: flex;
   justify-content: space-around;
@@ -1725,7 +1725,7 @@ a.fg-light:hover, a.fg-light:focus {
   padding: 0% 10% 0% 10%;
 
 }
- 
+
 .unique-box {
   background-color: #f4f4f4;
   width: 32%;
@@ -1735,16 +1735,16 @@ a.fg-light:hover, a.fg-light:focus {
   position: relative;
   text-align: center;
 }
- 
+
 .unique-image {
   position: relative;
 }
- 
+
 .unique-image img {
   width: 100%;
   height: auto;
 }
- 
+
 .unique-overlay {
   position: absolute;
   top: 0;
@@ -1759,11 +1759,11 @@ a.fg-light:hover, a.fg-light:focus {
   color: #fff;
   transition: opacity 0.3s;
 }
- 
+
 .unique-image:hover .unique-overlay {
   opacity: 1;
 }
- 
+
 .unique-overlay h2 {
   margin-bottom: 10px;
   font-size: 25px;
@@ -1772,7 +1772,7 @@ a.fg-light:hover, a.fg-light:focus {
   font-weight: 600;
   padding: 10px 20px 10px 20px;
 }
- 
+
 .unique-button {
   background-color: #007bff;
   color: #fff;
@@ -1783,11 +1783,11 @@ a.fg-light:hover, a.fg-light:focus {
   transition: background-color 0.3s;
   text-decoration: none;
 }
- 
+
 .unique-button:hover {
   background-color: #0056b3;
 }
- 
+
 @media (min-width: 1400px) {
   .unique-container {
       height: 46vh;
@@ -1797,14 +1797,14 @@ a.fg-light:hover, a.fg-light:focus {
   font-weight: 700;
   }
 }
- 
+
 @media (max-width: 768px) {
   .unique-container {
       flex-direction: column;
       height: 120vh;
       margin: -1px;
   }
- 
+
   .unique-box {
       width: 100%;
   }
@@ -1812,21 +1812,21 @@ a.fg-light:hover, a.fg-light:focus {
     font-size: 50px;
   }
 }
- 
+
 /* Acerca de nosotros */
 
 .banner-title-acerca {
   position: absolute;
-  top: 110px; 
-  left: 50%; 
+  top: 110px;
+  left: 50%;
   transform: translateX(-50%);
-  width: 100%; 
+  width: 100%;
   color: white;
   z-index: 2;
   font-family: 'Raleway', sans-serif;
-  font-weight: bold; 
+  font-weight: bold;
   font-size: 100px;
-  line-height: 1; 
+  line-height: 1;
   text-align: center;
 }
 
@@ -1846,15 +1846,15 @@ a.fg-light:hover, a.fg-light:focus {
 }
 
 .contenedor-nosotros img {
-  width: 450px; 
-  height: 450px; 
+  width: 450px;
+  height: 450px;
   object-fit: cover;
   border-radius: 50%;
 }
 .banner-container-acerca {
   position: relative;
   width: 100%;
-  height: 400px; 
+  height: 400px;
   overflow: hidden;
 }
 
@@ -1893,87 +1893,87 @@ a.fg-light:hover, a.fg-light:focus {
 
 .mision-vision {
   display: flex;
-  justify-content: space-around; 
-  margin: 2% 9%; 
+  justify-content: space-around;
+  margin: 2% 9%;
 }
 
 .mision, .vision {
-  width: 45%; 
-  text-align: center; 
+  width: 45%;
+  text-align: center;
 }
 
 .mision h2, .vision h2 {
-  font-size: 50px; 
-  font-weight: 800; 
+  font-size: 50px;
+  font-weight: 800;
 }
 
 .line {
   width: 90%;
   height: 2px;
-  background-color: #00bcd4; 
-  margin: 10px auto 20px; 
+  background-color: #00bcd4;
+  margin: 10px auto 20px;
 }
 
 .mision p, .vision p {
   text-align: justify;
-  font-size: 16px; 
-  line-height: 1.6; 
+  font-size: 16px;
+  line-height: 1.6;
 }
 
 .eleccion {
   display: flex;
-  justify-content: space-around; 
-  margin: 2% 9%; 
+  justify-content: space-around;
+  margin: 2% 9%;
 }
 
 .elegirnos {
-  width: 90%; 
-  text-align: center; 
+  width: 90%;
+  text-align: center;
 }
 
 .elegirnos h2 {
-  font-size: 50px; 
-  font-weight: 800; 
+  font-size: 50px;
+  font-weight: 800;
 }
 
 .elegirnos p {
   text-align: center;
-  font-size: 16px; 
-  line-height: 1.6; 
+  font-size: 16px;
+  line-height: 1.6;
 }
 
 .eleccion .line {
   width: 75%;
   height: 2px;
-  background-color: #00bcd4; 
-  margin: 10px auto 20px; 
+  background-color: #00bcd4;
+  margin: 10px auto 20px;
 }
 
 .features-section {
   display: flex;
-  justify-content: space-around; 
-  margin: 5% 9%; 
+  justify-content: space-around;
+  margin: 5% 9%;
 }
 
 .feature {
-  text-align: center; 
-  width: 30%; 
+  text-align: center;
+  width: 30%;
 }
 
 .feature img {
-  width: 50%; 
-  height: auto; 
+  width: 50%;
+  height: auto;
 }
 
 .feature h3 {
   font-size: 40px;
-  font-weight: bold; 
+  font-weight: bold;
   margin: 10px 0;
 }
 
 .feature p {
   text-align: center;
-  font-size: 16px; 
+  font-size: 16px;
   line-height: 1.6;
   margin: 0 10px;
   font-weight: 500;
@@ -1996,37 +1996,37 @@ a.fg-light:hover, a.fg-light:focus {
       flex-direction: column;
       align-items: center;
     }
-  
+
     .contenedor-nosotros img {
-      width: 80%; 
-      height: auto; 
+      width: 80%;
+      height: auto;
       margin-bottom: 20px;
     }
-  
+
     .texto-nosotros {
       padding: 0;
       text-align: center;
     }
-  
+
     .texto-nosotros h1 {
       font-size: 40px;
     }
-  
+
     .texto-nosotros p {
       font-size: 16px;
     }
   }
-  
+
   @media (max-width: 480px) {
     .contenedor-nosotros img {
       width: 200px;
       height: 200px;
     }
-  
+
     .texto-nosotros h1 {
       font-size: 30px;
     }
-  
+
     .texto-nosotros p {
       font-size: 16px;
     }
@@ -2039,16 +2039,16 @@ a.fg-light:hover, a.fg-light:focus {
       flex-direction: column;
       align-items: center;
     }
-  
+
     .mision, .vision {
       width: 100%;
       margin-bottom: 20px;
     }
-  
+
     .mision h2, .vision h2 {
       font-size: 40px;
     }
-  
+
     .mision p, .vision p {
       font-size: 16px;
     }
@@ -2066,12 +2066,12 @@ a.fg-light:hover, a.fg-light:focus {
     }
 
   }
-  
+
   @media (max-width: 480px) {
     .mision h2, .vision h2 {
       font-size: 30px;
     }
-  
+
     .mision p, .vision p {
       font-size: 16px;
     }
@@ -2083,33 +2083,33 @@ a.fg-light:hover, a.fg-light:focus {
     .features-section {
       flex-direction: column;
       align-items: center;
-      margin: 5% 2%; 
+      margin: 5% 2%;
     }
-  
+
     .feature {
-      width: 90%; 
+      width: 90%;
       margin-bottom: 20px;
     }
-  
+
     .feature img {
-      width: 70%; 
+      width: 70%;
     }
-  
+
     .feature h3 {
       font-size: 30px;
     }
-  
+
     .feature p {
       font-size: 16px;
       text-align: justify;
     }
   }
-  
+
   @media (max-width: 480px) {
     .feature h3 {
       font-size: 25px;
     }
-  
+
     .feature p {
       font-size: 16px;
     }
@@ -2173,16 +2173,16 @@ a.fg-light:hover, a.fg-light:focus {
   line-height: 180%;}
 
   @media (min-width: 1400px) {
-    .documental h2 { 
+    .documental h2 {
       font-size: 60px;
      }
-     
+
      .servicio p {
       font-size: 18px;
      }
 
      .documental img {
-      width: 25%;  
+      width: 25%;
     }
   }
 
@@ -2192,7 +2192,7 @@ a.fg-light:hover, a.fg-light:focus {
     justify-content: center;
     padding: 20px 25px 0px 50px;;
   }
-  
+
   .contenedor-documental {
     display: flex;
     align-items: center;
@@ -2200,10 +2200,10 @@ a.fg-light:hover, a.fg-light:focus {
     background-color: #fff;
     overflow: hidden;
   }
-  
+
   .contenedor-documental img {
-    width: 300px; 
-    height: 300px; 
+    width: 300px;
+    height: 300px;
     object-fit: cover;
     border-radius: 50%;
   }
@@ -2211,7 +2211,7 @@ a.fg-light:hover, a.fg-light:focus {
   .texto-documental {
     padding:  5% 2% 0% 5%;
   }
-  
+
   .texto-documental h1 {
     font-family: "Raleway", sans-serif;
     font-weight: 850;
@@ -2219,13 +2219,13 @@ a.fg-light:hover, a.fg-light:focus {
     margin-bottom: 20px;
     font-size: 60px;
   }
-  
+
   .texto-documental p {
     font-size: 16px;
     line-height: 1.6;
     text-align: justify;
   }
-  
+
   .jonas-documental .linea {
     width: 90%;
     height: 5px;
@@ -2233,30 +2233,30 @@ a.fg-light:hover, a.fg-light:focus {
     margin-bottom: 20px;
   }
   @media (min-width: 1400px) {
-  
+
     .texto-documental {
       padding: 0% 5% 0px 5%;
     }
-  
+
     .texto-documental h1 {
       font-size: 90px;
     }
-  
+
     .texto-documental p {
       font-size: 20px;
     }
 
     .contenedor-documental img {
-      width: 400px; 
-      height: 400px; 
+      width: 400px;
+      height: 400px;
     }
   }
-  
+
   .ventajas-section {
     text-align: center;
     padding: 50px 0;
   }
-  
+
   .ventajas-section h2 {
     font-family: "Raleway", sans-serif;
     font-weight: 850;
@@ -2264,7 +2264,7 @@ a.fg-light:hover, a.fg-light:focus {
     font-size: 60px;
     margin-bottom: 30px;
   }
-  
+
   .ventajas-section h3 {
     font-family: "Raleway", sans-serif;
     font-weight: 800;
@@ -2279,14 +2279,14 @@ a.fg-light:hover, a.fg-light:focus {
     flex-direction: column;
     align-items: center;
   }
-  
+
   .ventaja-item {
     display: flex;
     align-items: center;
     margin: 15px 0;
     max-width:80%
   }
-  
+
   .ventaja-item .numero {
     font-family: "Raleway", sans-serif;
     font-weight: 850;
@@ -2295,13 +2295,13 @@ a.fg-light:hover, a.fg-light:focus {
     margin-right: 15px;
     margin-bottom: 20px;
   }
-  
+
   .ventaja-item p {
     font-size: 20px;
     line-height: 1.6;
     text-align: left;
   }
-  
+
   @media (min-width: 1400px) {
     .ventaja-item {
 
@@ -2313,27 +2313,27 @@ a.fg-light:hover, a.fg-light:focus {
       align-items: flex-start;
       text-align: center;
     }
-  
+
     .ventaja-item .numero {
       margin-right: 0;
       margin-bottom: 10px;
     }
-  
+
     .ventaja-item p {
       text-align: center;
       max-width: 100%;
     }
   }
-  
+
   @media (max-width: 480px) {
     .ventajas-section h2 {
       font-size: 30px;
     }
-  
+
     .ventaja-item .numero {
       font-size: 30px;
     }
-  
+
     .ventaja-item p {
       font-size: 14px;
     }
@@ -2342,18 +2342,18 @@ a.fg-light:hover, a.fg-light:focus {
       font-size: 25px;
     }
   }
-  
+
   .descargar-brochure {
     padding: 0px 0px 80px 0px;
     background-color: #f8f8f8;
     text-align: center;
   }
-  
+
   .contenedor-brochure {
     max-width: 600px;
     margin: 0 auto;
   }
-  
+
   .descargar-brochure h2 {
     font-family: "Raleway", sans-serif;
     font-weight: 850;
@@ -2361,13 +2361,13 @@ a.fg-light:hover, a.fg-light:focus {
     margin-bottom: 20px;
     font-size: 36px;
   }
-  
+
   .descargar-brochure p {
     font-size: 18px;
     line-height: 1.6;
     margin-bottom: 30px;
   }
-  
+
   .btn-descargar {
     display: inline-block;
     padding: 10px 20px;
@@ -2379,29 +2379,29 @@ a.fg-light:hover, a.fg-light:focus {
     text-decoration: none;
     transition: background-color 0.3s;
   }
-  
+
   .btn-descargar:hover {
     background-color: #0195a8;
     text-decoration: none;
     color: #000;
   }
-  
+
   /* Brochure pantallas */
   @media (max-width: 768px) {
     .descargar-brochure h2 {
       font-size: 28px;
     }
-  
+
     .descargar-brochure p {
       font-size: 14px;
     }
-  
+
     .btn-descargar {
       padding: 8px 16px;
       font-size: 16px;
     }
   }
-  
+
 
 /* pantallas celular que es */
 
@@ -2577,16 +2577,16 @@ font-weight: bold;
   line-height: 180%;}
 
   @media (min-width: 1400px) {
-    .preservacion-software h2 { 
+    .preservacion-software h2 {
       font-size: 80px;
      }
-     
+
      .preservacion p {
       font-size: 18px;
      }
 
      .preservacion img {
-      width: 40%;  
+      width: 40%;
     }
   }
 
@@ -2607,14 +2607,14 @@ font-weight: bold;
     text-align: center;
     padding-bottom: 3%;
   }
-  
+
   .fila {
     display: flex;
     justify-content: space-between;
     width: 100%;
     margin-bottom: 20px;
   }
-  
+
   .contenedor-digital {
     flex: 1;
     min-width: 30%;
@@ -2626,21 +2626,21 @@ font-weight: bold;
     box-sizing: border-box;
     text-align: center;
   }
-  
+
   .contenedor-digital h3 {
     font-size: 24px;
     color: #000000;
     font-weight: bold;
     margin-bottom: 10px;
   }
-  
+
   .linea {
     width: 90%;
     height: 2px;
     background-color: #00bcd4;
     margin: 10px auto;
   }
-  
+
   .contenedor-digital p {
     font-size: 16px;
     color: #333;
@@ -2654,7 +2654,7 @@ font-weight: bold;
     width: 75%;
     margin-bottom: 20px;
   }
-  
+
   .contenedor-digital {
     flex: 1;
     min-width: 30%;
@@ -2669,13 +2669,13 @@ font-weight: bold;
     box-sizing: border-box;
     text-align: center;
   }
-  
+
   .contenedor-digital h3 {
     font-size: 24px;
     color: #000000;
     margin-bottom: 10px;
   }
-  
+
   .contenedor-digital p {
     font-size: 16px;
     color: #333;
@@ -2687,7 +2687,7 @@ font-weight: bold;
     .caracteristicas {
       padding: 20px 5%;
     }
-  
+
     .fila {
       flex-direction: column;
       align-items: center;
@@ -2697,7 +2697,7 @@ font-weight: bold;
       flex-direction: column;
       align-items: center;
     }
-  
+
     .contenedor-digital {
       width: 80%;
       min-width: unset;
@@ -2710,12 +2710,12 @@ font-weight: bold;
     background-color: #f8f8f8;
     text-align: center;
   }
-  
+
   .contenedor-transforma {
     max-width: 80%;
     margin: 0 auto;
   }
-  
+
   .transforma-digital h2 {
     font-family: "Raleway", sans-serif;
     font-weight: 850;
@@ -2723,14 +2723,14 @@ font-weight: bold;
     margin-bottom: 20px;
     font-size: 42px;
   }
-  
+
   .transforma-digital p {
     font-size: 20px;
     line-height: 1.6;
     margin-bottom: 30px;
     text-align: justify;
   }
-  
+
   .btn-transforma {
     display: inline-block;
     padding: 10px 20px;
@@ -2742,23 +2742,23 @@ font-weight: bold;
     text-decoration: none;
     transition: background-color 0.3s;
   }
-  
+
   .btn-transforma:hover {
     background-color: #0195a8;
     text-decoration: none;
     color: #000;
   }
-  
+
   /* Brochure pantallas */
   @media (max-width: 768px) {
     .transforma-digital h2 {
       font-size: 28px;
     }
-  
+
     .btn-transforma p {
       font-size: 14px;
     }
-  
+
     .btn-transforma {
       padding: 8px 16px;
       font-size: 16px;
@@ -2788,7 +2788,7 @@ font-weight: bold;
   user-select: none;
   font-size: 13px;
  }
- 
+
  .fancy::before {
   content: " ";
   width: 1.5625rem;
@@ -2801,7 +2801,7 @@ font-weight: bold;
   transform-origin: center;
   transition: background 0.3s linear, width 0.3s linear;
  }
- 
+
  .fancy .text {
   font-size: 1.125em;
   line-height: 1.33333em;
@@ -2813,7 +2813,7 @@ font-weight: bold;
   text-decoration: none;
   color: #fff;
  }
- 
+
  .fancy .top-key {
   height: 2px;
   width: 1.5625rem;
@@ -2823,7 +2823,7 @@ font-weight: bold;
   background: #e8e8e8;
   transition: width 0.5s ease-out, left 0.3s ease-out;
  }
- 
+
  .fancy .bottom-key-1 {
   height: 2px;
   width: 1.5625rem;
@@ -2833,7 +2833,7 @@ font-weight: bold;
   background: #e8e8e8;
   transition: width 0.5s ease-out, right 0.3s ease-out;
  }
- 
+
  .fancy .bottom-key-2 {
   height: 2px;
   width: 0.625rem;
@@ -2843,34 +2843,34 @@ font-weight: bold;
   background: #e8e8e8;
   transition: width 0.5s ease-out, right 0.3s ease-out;
  }
- 
+
  .fancy:hover {
   color: white;
   background: linear-gradient(to right, #2193b0, #6dd5ed);
  }
- 
+
  .fancy:hover::before {
   width: 0.9375rem;
   background: white;
  }
- 
+
  .fancy:hover .text {
   color: white;
   padding-left: 1.5em;
  }
- 
+
  .fancy:hover .top-key {
   left: -2px;
   width: 0px;
  }
- 
+
  .fancy:hover .bottom-key-1,
   .fancy:hover .bottom-key-2 {
   right: 0;
   width: 0;
  }
 
- @media (max-width: 732px) { 
+ @media (max-width: 732px) {
   .box-ti {
     font-size: 30px;
   }
@@ -3262,9 +3262,36 @@ font-weight: bold;
   margin-bottom: 32px;
 }
 
+.title-section-cust {
+    color: #1fc3cd;
+    font-size: 40px;
+    line-height: 1.2;
+    max-width: 80vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+  }
+.text-h3 {
+    font-weight: bold;
+    font-size: 39px;
+    color: black;
+    margin-bottom: 16px;
+}
+
+.text-p {
+    font-size: 16px;
+    color: black;
+    line-height: 1.5;
+    margin-bottom: 24px;
+}
+
 .text-center .title-section {
   margin-left: auto;
   margin-right: auto;
+}
+
+.blue-bootom-border {
+    border-bottom: 2px solid #1fc3cd;
 }
 
 .title-section-contact {
@@ -3290,7 +3317,7 @@ font-weight: bold;
  -webkit-box-shadow: 0 8px 16px rgba(109, 114, 139, 0.3);
           box-shadow: 0 8px 16px rgba(109, 114, 139, 0.3);
   -webkit-transform: skewX(-3deg) rotateX(20deg);
-          transform: skewX(-3deg) rotateX(20deg); 
+          transform: skewX(-3deg) rotateX(20deg);
 }
 .about-img1 {
   position: relative;
@@ -4020,8 +4047,8 @@ footer {
   letter-spacing: 2px;
 }
 .button32:hover::before {
-  opacity: 1; 
-  transform: scale(1, 1); 
+  opacity: 1;
+  transform: scale(1, 1);
 }
 .button32::after {
   content: '';
@@ -4035,7 +4062,7 @@ footer {
   background-color: rgba(255,255,255,0.1);
 }
 .button32:hover::after {
-  opacity: 0; 
+  opacity: 0;
   transform: scale(0.1, 1);
 }
 
@@ -4043,7 +4070,7 @@ footer {
   -webkit-transition: 1s linear;
   transition: 1s linear;
 }
- 
+
 .img32:hover {
   -webkit-transform: scale(.3);
   transform: scale(.3);
@@ -4053,7 +4080,7 @@ footer {
   -webkit-transition: 1s linear;
   transition: 1s linear;
 }
- 
+
 .img15:hover {
   -webkit-transform: scale(.5);
   transform: matrix(0.5, 0.1, 0.5, 1, 10, -2);
@@ -4064,23 +4091,23 @@ footer {
   -webkit-transition: 1s linear;
   transition: 1s linear;
 }
- 
+
 .img10:hover {
   -webkit-transform: perspective(150px) rotateY(45deg);
   transform: perspective(150px) rotateY(45deg);
 } */
 .card1 {
-  
+
   -webkit-transition: 1s linear;
   transition: 1s linear;
 }
- 
+
 .card1:hover {
   -webkit-transform: scale(.5);
   transform: scale(.5);
 }
 
- 
+
 .card4:hover {
   -webkit-transform: scale(.5);
   transform: scale(.5);
@@ -4126,14 +4153,14 @@ footer {
 .btn-two {
   color: #FFF;
   transition: all 0.5s;
-  position: relative; 
+  position: relative;
 }
 .btn-two span {
-  z-index: 2; 
+  z-index: 2;
   display: block;
   position: absolute;
   width: 100%;
-  height: 100%; 
+  height: 100%;
 }
 .btn-two::before {
   content: '';
@@ -4230,7 +4257,7 @@ footer {
     margin-right: 50px;
     border-radius: 6px;
     overflow: hidden;
- 
+
 }
 
 .blog-item .content {
@@ -4401,7 +4428,7 @@ footer {
   .card-custom {
     width: calc(100.33% - 20px); /* Ancho de cada tarjeta */
  /*  }
-} 
+}
 */
 
 /* Tarjetas */
@@ -4433,7 +4460,7 @@ footer {
 .banner-container {
   position: relative;
   width: 100%;
-  height: 500px; 
+  height: 500px;
   overflow: hidden;
 }
 
@@ -4449,20 +4476,20 @@ footer {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgb(15 73 91 / 40%); 
+  background-color: rgb(15 73 91 / 40%);
   z-index: 1;
 }
 
 .banner-title {
   position: absolute;
-  top: 150px; 
-  left: 100px; 
+  top: 150px;
+  left: 100px;
   color: white;
   z-index: 2;
   font-family: 'Raleway', sans-serif;
-  font-weight: bold; 
+  font-weight: bold;
   font-size: 130px;
-  line-height: 1; 
+  line-height: 1;
 }
 
 .banner-text {
@@ -4598,7 +4625,7 @@ footer {
 }
 
 .style-icons {
-  font-size: 140px; 
+  font-size: 140px;
   padding:40px 80px 40px 80px;
 }
 
