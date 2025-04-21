@@ -3262,6 +3262,15 @@ font-weight: bold;
   margin-bottom: 32px;
 }
 
+.border-div-blue{
+    border: #00669c;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #1fc3cd;
+    border-radius: 30px;
+    max-width: 400px;
+}
+
 .title-section-cust {
     color: #1fc3cd;
     font-size: 40px;

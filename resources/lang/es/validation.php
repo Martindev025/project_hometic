@@ -190,6 +190,11 @@ return [
         'sec&int-text' => 'Aseguramos la integridad de los datos y prevenimos accesos no autorizados.',
         'rule' => 'Cumplimiento Normativo',
         'rule-text' => 'Cumplimos con las normativas vigentes en materia de privacidad y protección de datos.',
+        'method' => 'Metodología',
+        'frst-item-cust' => 'Profesionales Especializados: Expertos se encargan de almacenar, organizar y proteger los documentos.',
+        'scd-item-cust' => 'Normatividad Establecida: Seguimos estrictamente las regulaciones legales.',
+        'frst-item-doc' => 'Formato Físico: Resguardo y protección física de documentos.',
+        'scd-item-doc' => 'Formato Digital: Implementación de medidas de seguridad para prevenir pérdidas o accesos no autorizados.',
     ],
 
     'preserv' => [

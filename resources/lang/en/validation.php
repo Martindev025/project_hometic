@@ -182,6 +182,11 @@ return [
         'sec&int-text' => 'We ensure data integrity and prevent unauthorized access.',
         'rule' => 'Regulatory Compliance',
         'rule-text' => 'We comply with current regulations regarding privacy and data protection.',
+        'method' => 'Metodología',
+        'frst-item-cust' => 'Specialized Professionals: Experts are responsible for storing, organizing, and protecting documents.',
+        'scd-item-cust' => 'Established Regulations: We strictly follow legal regulations.',
+        'frst-item-doc' => 'Physical Format: Safekeeping and physical protection of documents.',
+        'scd-item-doc' => 'Digital Format: Implementation of security measures to prevent loss or unauthorized access.',
     ],
 
     'preserv' => [
