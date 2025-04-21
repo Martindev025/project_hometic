@@ -92,9 +92,6 @@
                 <li>
                     {{ __("validation.orga.meth-text-3-2") }}
                 </li>
-                <li>
-                    {{ __("validation.orga.meth-text-3-3") }}
-                </li>
             </ul>
         </div>
     </div>
