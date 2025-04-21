@@ -186,6 +186,10 @@ return [
         'commitment' => 'Nuestro compromiso con la Seguridad y Confidencialidad de la Información',
         'promise' => 'Nuestra Promesa',
         'dedication' => 'Nos dedicamos a garantizar la confidencialidad y seguridad de la información contenida en los documentos, ya sea en formato físico o digital.',
+        'sec&int' => 'Integridad y Seguridad',
+        'sec&int-text' => 'Aseguramos la integridad de los datos y prevenimos accesos no autorizados.',
+        'rule' => 'Cumplimiento Normativo',
+        'rule-text' => 'Cumplimos con las normativas vigentes en materia de privacidad y protección de datos.',
     ],
 
     'preserv' => [

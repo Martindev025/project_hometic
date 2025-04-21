@@ -175,6 +175,13 @@ return [
 
     'cust' => [
         'title' => 'File Custody',
+        'commitment' => 'Our Commitment to Information Security and Confidentiality',
+        'promise' => 'Our Promise',
+        'dedication' => 'We are dedicated to ensuring the confidentiality and security of the information contained in documents, whether in physical or digital format.',
+        'sec&int' => 'Integrity and Security',
+        'sec&int-text' => 'We ensure data integrity and prevent unauthorized access.',
+        'rule' => 'Regulatory Compliance',
+        'rule-text' => 'We comply with current regulations regarding privacy and data protection.',
     ],
 
     'preserv' => [
