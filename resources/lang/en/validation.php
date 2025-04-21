@@ -187,6 +187,7 @@ return [
         'scd-item-cust' => 'Established Regulations: We strictly follow legal regulations.',
         'frst-item-doc' => 'Physical Format: Safekeeping and physical protection of documents.',
         'scd-item-doc' => 'Digital Format: Implementation of security measures to prevent loss or unauthorized access.',
+        'importance' => 'Importance',
     ],
 
     'preserv' => [

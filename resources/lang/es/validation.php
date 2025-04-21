@@ -195,6 +195,7 @@ return [
         'scd-item-cust' => 'Normatividad Establecida: Seguimos estrictamente las regulaciones legales.',
         'frst-item-doc' => 'Formato Físico: Resguardo y protección física de documentos.',
         'scd-item-doc' => 'Formato Digital: Implementación de medidas de seguridad para prevenir pérdidas o accesos no autorizados.',
+        'importance' => 'Importancia',
     ],
 
     'preserv' => [

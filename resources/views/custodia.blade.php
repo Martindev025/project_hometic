@@ -88,6 +88,16 @@
                 </ul>
             </div>
         </div>
+        <div class="row justify-content-center gx-5">
+            <div class="col-12 col-md-6 mb-4">
+                <p class="font-weight-bold text-center mt-3">{{ __("validation.cust.importance") }}</p>
+
+            </div>
+            <div class="col-12 col-md-6 mb-4">
+                <p class="font-weight-bold text-center mt-3">{{ __("validation.gest.title") }}</p>
+
+            </div>
+        </div>
     </div>
 
     <!-- .container -->
