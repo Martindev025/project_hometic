@@ -179,6 +179,21 @@ return [
 
     'orga' => [
         'title' => 'Organización y Clasificación de Archivos',
+        'subtitle' => 'Transforme Su Gestión Documental: Organización y Acceso Eficiente a sus Archivos',
+        'subtitle-text' => 'Garantizamos los procesos fundamentales de la Gestión Documental organizando y clasificando la documentación de manera jerárquica basándonos en los principios de procedencia y orden original, aplicando el acuerdo 002 de 2014 emitido por el Archivo General de la Nación.',
+        'meth-head-1' => '1. Formato Físico y Digital',
+        'meth-text-1-1' => 'Crear sistemas de archivado.',
+        'meth-text-1-2' => 'Uso de etiquetas o categorías para identificar contenido.',
+        'meth-text-1-3' => 'Implementación de estructuras de carpetas o bases de datos para almacenar la información de manera lógica y eficiente.',
+        'meth-head-2' => '2. Estrategias Comunes: ',
+        'meth-text-2-1' => 'Crear un sistema de carpetas lógico y coherente.',
+        'meth-text-2-2' => 'Uso de nombres descriptivos para los archivos.',
+        'meth-text-2-3' => 'Aplicación de etiquetas o palabras clave que faciliten la búsqueda.',
+        'meth-text-2-4' => 'Eliminación regular de documentos obsoletos o innecesarios.',
+        'meth-head-3' => '3. Herramientas y Políticas:',
+        'meth-text-3-1' => 'Uso de gestores de archivos y aplicaciones de organización en el entorno digital.',
+        'meth-text-3-2' => 'Establecimiento de políticas y procedimientos claros para el manejo de archivos, especialmente en entornos empresariales.',
+        'info' => 'Mantener la eficiencia y la productividad mediante una organización y categorización adecuada de los documentos facilita su acceso, recuperación y gestión.',
     ],
 
     'cust' => [

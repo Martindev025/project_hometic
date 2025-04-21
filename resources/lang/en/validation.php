@@ -168,9 +168,21 @@ return [
 
     'orga' => [
         'title' => 'Organization and Classification of Files',
-        'commitment' => 'Our commitment to Information Security and Confidentiality',
-        'promise' => 'Our Promise',
-        'dedication' => 'We are dedicated to ensuring the confidentiality and security of the information contained in documents, whether in physical or digital format.'
+        'subtitle' => 'Transform Your Document Management: Efficient Organization and Access to Your Archives',
+        'subtitle-text' => 'We guarantee the fundamental processes of Document Management by organizing and classifying documentation hierarchically based on the principles of provenance and original order, applying Agreement 002 of 2014 issued by the National Archives.',
+        'meth-head-1' => '1. Physical and Digital Format',
+        'meth-text-1-1' => 'Create filing systems.',
+        'meth-text-1-2' => 'Use tags or categories to identify content.',
+        'meth-text-1-3' => 'Implement folder structures or databases to store information logically and efficiently.',
+        'meth-head-2' => '2. Common Strategies: ',
+        'meth-text-2-1' => 'Create a logical and consistent folder system.',
+        'meth-text-2-2' => 'Use descriptive file names.',
+        'meth-text-2-3' => 'Apply tags or keywords to facilitate searching.',
+        'meth-text-2-4' => 'Regularly delete outdated or unnecessary documents.',
+        'meth-head-3' => '3. Tools and Policies:',
+        'meth-text-3-1' => 'Use file managers and organization applications in the digital environment.',
+        'meth-text-3-2' => 'Establish clear policies and procedures for file management, especially in business environments.',
+        'info' => 'Maintaining efficiency and productivity through proper organization and categorization of documents makes them easier to access, retrieve, and manage.',
     ],
 
     'cust' => [
