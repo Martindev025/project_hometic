@@ -196,6 +196,10 @@ return [
         'frst-item-doc' => 'Formato Físico: Resguardo y protección física de documentos.',
         'scd-item-doc' => 'Formato Digital: Implementación de medidas de seguridad para prevenir pérdidas o accesos no autorizados.',
         'importance' => 'Importancia',
+        'importance-sub-title' =>  'Ámbito Empresarial y Gubernamental: ',
+        'importance-text' => 'El manejo adecuado de la información es crucial para el cumplimiento de regulaciones legales y la protección de la privacidad.',
+        'importance-sub-title-2' => 'Eficiencia Operativa: ',
+        'importance-text-2' => 'Nuestra gestión asegura la eficiencia operativa y la preservación de la información a lo largo del tiempo.',
     ],
 
     'preserv' => [

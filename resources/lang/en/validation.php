@@ -188,6 +188,10 @@ return [
         'frst-item-doc' => 'Physical Format: Safekeeping and physical protection of documents.',
         'scd-item-doc' => 'Digital Format: Implementation of security measures to prevent loss or unauthorized access.',
         'importance' => 'Importance',
+        'importance-sub-title' => 'Business and Government: ',
+        'importance-text' => 'Proper information management is crucial for compliance with legal regulations and privacy protection.',
+        'importance-sub-title-2' => 'Operational Efficiency: ',
+        'importance-text-2' => 'Our management ensures operational efficiency and the preservation of information over time.',
     ],
 
     'preserv' => [

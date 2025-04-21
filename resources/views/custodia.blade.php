@@ -1,5 +1,10 @@
 @extends('index') @section('title', 'Inicio') @section('content')
-<div class="page-banner bg-img bg-img-parallax" style="background-image: url('{{ asset('assets/img/background-index.png') }}')">
+<div
+    class="page-banner bg-img bg-img-parallax"
+    style="background-image: url('{{
+        asset('assets/img/background-index.png')
+    }}')"
+>
     <div class="container h-100">
         <div class="row justify-content-center align-items-center h-100">
             <div class="col-lg-8">
@@ -72,30 +77,54 @@
             </div>
         </div>
 
-        <div class="row justify-content-center gx-5">
+        <div class="row justify-content-center gx-5 mb-4">
             <div class="col-12 col-md-6 mb-4 border-div-blue ml-5 mr-5">
-                <p class="font-weight-bold text-center mt-3">{{ __("validation.cust.title") }}</p>
+                <p class="font-weight-bold text-center mt-3">
+                    {{ __("validation.cust.title") }}
+                </p>
                 <ul class="text-left">
                     <li>{{ __("validation.cust.frst-item-cust") }}</li>
                     <li>{{ __("validation.cust.scd-item-cust") }}</li>
                 </ul>
             </div>
             <div class="col-12 col-md-6 mb-4 border-div-blue ml-5 mr-5">
-                <p class="font-weight-bold text-center mt-3">{{ __("validation.gest.title") }}</p>
+                <p class="font-weight-bold text-center mt-3">
+                    {{ __("validation.gest.title") }}
+                </p>
                 <ul class="text-left">
                     <li>{{ __("validation.cust.frst-item-doc") }}</li>
                     <li>{{ __("validation.cust.scd-item-doc") }}</li>
                 </ul>
             </div>
         </div>
-        <div class="row justify-content-center gx-5">
+        <div class="row justify-content-center gx-5 ">
             <div class="col-12 col-md-6 mb-4">
-                <p class="font-weight-bold text-center mt-3">{{ __("validation.cust.importance") }}</p>
+                <div class="text-center blue-bootom-border title-section-cust font-weight-bold mb-4">
+                    <h2>{{ __("validation.cust.importance") }}</h2>
+                </div>
+                <div class="w-90">
+                    <p class="text-left mt-3 text-h5">
+                        <strong>{{
+                            __("validation.cust.importance-sub-title")
+                        }}</strong>
 
+                        {{ __("validation.cust.importance-text") }}
+                    </p>
+                    <p class="text-left mt-3 text-h5">
+                        <strong>{{
+                            __("validation.cust.importance-sub-title-2")
+                        }}</strong>
+
+                        {{ __("validation.cust.importance-text-2") }}
+                    </p>
+                </div>
             </div>
             <div class="col-12 col-md-6 mb-4">
-                <p class="font-weight-bold text-center mt-3">{{ __("validation.gest.title") }}</p>
-
+                <img
+                    src="{{ asset('assets/img/to-do-list.jpg') }}"
+                    alt="Imagen cumplimiento normativo"
+                    class="img-index"
+                />
             </div>
         </div>
     </div>
