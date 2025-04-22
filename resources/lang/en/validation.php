@@ -212,7 +212,11 @@ return [
 
     'gest' => [
         'title' => 'Document Management',
-
+        'info' => 'We focus on helping companies optimize their document management.',
+        'specific-info' => 'We offer specialized consulting services to organizations to implement strategies, processes, and technologies that efficiently manage their documents and associated information, from creation to final disposition.',
+        'politics' => 'We implement policies, processes, and technologies by analyzing your organization´s specific needs!',
+        'politics-text' => 'We assess your current document management processes to identify areas for improvement and propose customized solutions. We design policies and procedures, train staff, and ensure compliance with archival regulations and standards, thus ensuring efficient and effective information management.',
+        'law' => 'We apply Law 594 of 2000, known as the "General Archives Law", to develop and use archival instruments that promote the proper development of document management in companies.',
         'funcion' => 'What is its functionality?',
             'funcion-text' => 'Refers to the processes and resources used to organize, store, and retrieve documents, automating workflows within a company.
                             Documents can be in printed or digital format and can include contracts, forms, invoices, job applications, registration information for governmental entities, and other records.',

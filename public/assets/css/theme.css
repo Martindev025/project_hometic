@@ -3289,6 +3289,24 @@ font-weight: bold;
     margin-right: auto;
     margin-bottom: 0;
   }
+
+.img-section {
+    width: 80%;
+    max-width: 800%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+  .title-section-cust-gest {
+    color: #1fc3cd;
+    font-size: 34px;
+    font-weight: 900;
+    line-height: 1.2;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+    max-width: 35rem;
+  }
 .text-h3 {
     font-weight: bold;
     font-size: 39px;
@@ -3308,6 +3326,12 @@ font-weight: bold;
     color: black;
     line-height: 1.5;
     margin-bottom: 24px;
+}
+
+.title-section-high-bold{
+    font-size: 34px;
+    font-weight: 900;
+    line-height: 1.2;
 }
 
 .text-center .title-section {

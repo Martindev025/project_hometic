@@ -222,31 +222,28 @@ return [
     ],
 
     'gest' => [
-        'title' => 'Gestión Documental',
-
+        'title' => 'Consultoría en gestión documental',
+        'info' => 'Nos enfocamos en ayudar a las empresas a optimizar la gestión de sus documentos.',
+        'specific-info' => 'Ofrecemos un servicio especializado de asesoramiento a organizaciones para implementar estrategias, procesos y tecnologías que gestionen eficientemente sus documentos e información asociada, desde la creación hasta la disposición final.',
+        'law' => 'Aplicamos la Ley 594 de 2000, conocida como la "Ley General de Archivos", para elaborar y utilizar instrumentos archivísticos que promuevan el adecuado desarrollo de la gestión documental en las empresas.',
+        'politics' => '¡Implementamos políticas, procesos y tecnologías analizando las necesidades específicas de su organización!',
+        'politics-text' => 'Evaluamos sus procesos actuales de gestión documental para identificar áreas de mejora y proponer soluciones personalizadas. Diseñamos políticas y procedimientos, capacitamos al personal y garantizamos el cumplimiento de regulaciones y estándares archivísticos, asegurando así una gestión eficiente y efectiva de la información.',
         'funcion' => '¿Cuál es su funcionalidad?',
-            'funcion-text' => 'Hace referencia a los procesos y recursos utilizados para organizar, almacenar y recuperar documentos, automatizar los flujos de trabajo dentro de una compañía.
+        'funcion-text' => 'Hace referencia a los procesos y recursos utilizados para organizar, almacenar y recuperar documentos, automatizar los flujos de trabajo dentro de una compañía.
                             Los documentos pueden estar en formato impreso o digital y estos pueden incluir contratos, formularios, facturas, solicitudes de empleo, información sobre inscripciones en entes gubernamentales y entre otros registros.',
-
         'plan' => 'Planeación',
-            'plan-text' => 'Conjunto de actividades encaminadas a la planeación, generación y valoración de los documentos de la entidad, en cumplimiento con el contexto administrativo, legal, funcional y técnico.
+        'plan-text' => 'Conjunto de actividades encaminadas a la planeación, generación y valoración de los documentos de la entidad, en cumplimiento con el contexto administrativo, legal, funcional y técnico.
                         Comprende la creación y diseño de formas, formularios y documentos, análisis de procesos, análisis diplomático y su registro en el sistema de gestión documental.',
-
         'tram' => 'Gestión y Trámite',
-            'tram-text' => 'Conjunto de actuaciones necesarias para el registro, la vinculación a un trámite, la distribución incluidas las actuaciones o delegaciones, la descripción (metadatos), la disponibilidad, recuperación y acceso para consulta de los documentos, el control y seguimiento a los trámites que surte el documento hasta la resolución de los asuntos.',
-
+        'tram-text' => 'Conjunto de actuaciones necesarias para el registro, la vinculación a un trámite, la distribución incluidas las actuaciones o delegaciones, la descripción (metadatos), la disponibilidad, recuperación y acceso para consulta de los documentos, el control y seguimiento a los trámites que surte el documento hasta la resolución de los asuntos.',
         'document' => 'Disposición de Documentos',
-            'document-text' => 'Selección de los documentos en cualquier etapa del archivo, con miras a su conservación temporal, permanente o a su eliminación, de acuerdo con lo establecido en las tablas de retención documental o en las tablas de valoración documental.',
-
+        'document-text' => 'Selección de los documentos en cualquier etapa del archivo, con miras a su conservación temporal, permanente o a su eliminación, de acuerdo con lo establecido en las tablas de retención documental o en las tablas de valoración documental.',
         'transfer' => 'Transferencia',
-            'transfer-text' => 'Conjunto de operaciones adoptadas por la entidad para transferir los documentos durante las fases de archivo, verificando la estructura, la validación del formato de generación, la migración, refreshing, emulación o conversión, los metadatos técnicos de formato, los metadatos de preservación y los metadatos descriptivos.',
-
+        'transfer-text' => 'Conjunto de operaciones adoptadas por la entidad para transferir los documentos durante las fases de archivo, verificando la estructura, la validación del formato de generación, la migración, refreshing, emulación o conversión, los metadatos técnicos de formato, los metadatos de preservación y los metadatos descriptivos.',
         'orga' => 'Organización',
-            'orga-text' => 'Conjunto de operaciones técnicas para declarar el documento en el sistema de gestión documental, clasificarlo, ubicarlo en el nivel adecuado, ordenarlo y describirlo adecuadamente.',
-
+        'orga-text' => 'Conjunto de operaciones técnicas para declarar el documento en el sistema de gestión documental, clasificarlo, ubicarlo en el nivel adecuado, ordenarlo y describirlo adecuadamente.',
         'plaz' => 'Preservación a Largo Plazo',
-            'plaz-text' => 'Conjunto de acciones y estándares aplicados a los documentos durante su gestión para garantizar su preservación en el tiempo, independientemente de su medio y forma de registro o almacenamiento.',
-
+        'plaz-text' => 'Conjunto de acciones y estándares aplicados a los documentos durante su gestión para garantizar su preservación en el tiempo, independientemente de su medio y forma de registro o almacenamiento.',
         'more' => 'Más información',
     ],
 
