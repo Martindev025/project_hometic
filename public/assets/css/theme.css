@@ -3280,6 +3280,10 @@ font-weight: bold;
     max-width: 350px;
 }
 
+.gest-div-info {
+    max-width: 300px;
+}
+
 .title-section-cust {
     color: #1fc3cd;
     font-size: 40px;
@@ -3307,6 +3311,27 @@ font-weight: bold;
     margin-bottom: 0;
     max-width: 35rem;
   }
+.text-section-cust-gest{
+    color: black;
+    font-size: 20px;
+    font-weight: 900;
+    line-height: 1.2;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+    max-width: 35rem;
+}
+
+.text-section-cust-gest-blue{
+    color: #1fc3cd;
+    font-size: 20px;
+    font-weight: 900;
+    line-height: 1.2;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+    max-width: 35rem;
+}
 .text-h3 {
     font-weight: bold;
     font-size: 39px;

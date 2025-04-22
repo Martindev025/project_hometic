@@ -245,6 +245,9 @@ return [
         'plaz' => 'Preservación a Largo Plazo',
         'plaz-text' => 'Conjunto de acciones y estándares aplicados a los documentos durante su gestión para garantizar su preservación en el tiempo, independientemente de su medio y forma de registro o almacenamiento.',
         'more' => 'Más información',
+        'cust-serv-1' => 'Asesoría en gestión documental.',
+        'cust-serv-2' => 'Análisis, diseño e implementación de procesos.',
+        'cust-serv-3' => 'Acompañamiento y soporte técnico.',
     ],
 
     'soft-pre' => [

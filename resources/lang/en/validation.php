@@ -241,6 +241,9 @@ return [
             'plaz-text' => 'A set of actions and standards applied to documents during their management to ensure their preservation over time, regardless of their medium and form of registration or storage.',
 
         'more' => 'More Information',
+        'cust-serv-1' => 'Document management consulting.',
+        'cust-serv-2' => 'Process analysis, design, and implementation.',
+        'cust-serv-3' => 'Technical support and mentoring.',
     ],
 
     'soft-pre' => [
