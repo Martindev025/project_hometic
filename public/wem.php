@@ -26,7 +26,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
 
 
- 
+
 
 </head>
 
@@ -36,7 +36,7 @@
 <div class="back-to-top"></div>
 
 <header>
- 
+
         <nav class="navbar navbar-expand-lg navbar-light">
             <div class="container">
                 <img class="img-body" src="assets/img/logo.png"  alt="">
@@ -59,10 +59,10 @@
                             <a href="acercadenosotros.php" class="nav-link">Acerca de nosotros</a>
                         </li>
 
-                        
+
                          <li class="nav-item dropdown">
                             <a class="nav-link" data-toggle="dropdown" href="#">
-                                Nuestros Servicios 
+                                Nuestros Servicios
                             </a>
                             <div class="dropdown-menu dropdown-menu-lg dropdown-menu-right">
                             <a href="consultory.php" class="dropdown-item">
@@ -136,7 +136,7 @@
                                 </a>
                         </li>
 
-                        
+
                         <li class="nav-item">
                             <a href="" class="nav-link">Aliados</a>
                         </li>
@@ -144,11 +144,11 @@
                         <li class="nav-item">
                             <a href="tickets.php" class="nav-link">Soporte</a>
                         </li>
-                        
+
                         <li class="nav-item">
                             <a href="blog.php" class="nav-link">Blog</a>
-                        </li> 
-                        
+                        </li>
+
                         <li class="nav-item">
                             <a href="contact.php" class="nav-link">Contáctenos</a>
                         </li>
@@ -156,12 +156,12 @@
                 </div>
             </div> <!-- .container -->
         </nav> <!-- .navbar -->
- <!-- 
- 
+ <!--
+
  <a href="https://wa.me/573183059586/?text=Me%20interesa%20conocer%20mas%20acerca%20de%20sus%20servicios" style="position:fixed;
   width:60px;
   height:60px;
-  bottom:70px; 
+  bottom:70px;
   right:40px;
   background-color:#25d366;
   color:#FFF;
@@ -208,7 +208,7 @@
         </div>
     </div> <!-- .container -->
 </div> <!-- .page-section -->
-<!--Imagen izquierda y texto Derecha-->    
+<!--Imagen izquierda y texto Derecha-->
 <div class="page-section3">
     <div class="container">
         <div class="row align-items-center">
@@ -228,12 +228,12 @@
         </div>
     </div>
 </div>
-<!--Imagen izquierda y texto Derecha Fin--> 
+<!--Imagen izquierda y texto Derecha Fin-->
     <!-- inicio footer -->
 <footer>
         <div class="footer-content">
             <div class="contact-info">
-            © Copyright 2024 <strong><span>HOMETIC S.A</span></strong> . All Rights Reserved
+            © Copyright 2025 <strong><span>HOMETIC S.A</span></strong> . All Rights Reserved
             </div>
             <div class="social-icons">
                 <a href="https://twitter.com/HometicSAS" class="social-icon"><i class="fa-brands fa-x-twitter"></i>
@@ -268,7 +268,7 @@
 
     <!-- <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIA_zqjFMsJM_sxP9-6Pde5vVCTyJmUHM&callback=initMap"></script> -->
 
-    
+
 </body>
 
 </html>
