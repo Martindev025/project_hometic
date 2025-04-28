@@ -45,7 +45,7 @@
     <div class="back-to-top"></div>
 
     <header>
-     
+
         <nav class="navbar navbar-expand-lg navbar-light">
             <div class="container">
                 <img class="img-body" src="{{ asset('assets/img/logo.png') }}"  alt="">
@@ -68,7 +68,7 @@
                             <a href="{{ route('acerca') }}" class="nav-link">{{ __('validation.header.about') }}</a>
                         </li>
 
-                        
+
                          <li class="nav-item dropdown">
                             <a class="nav-link" data-toggle="dropdown" href="#">
                                 {{ __('validation.header.our') }}
@@ -145,7 +145,7 @@
                                 </a>
                         </li>
 
-                        
+
                         <li class="nav-item">
                             <a href="{{ route('aliados') }}" class="nav-link">{{ __('validation.header.partners') }}</a>
                         </li>
@@ -153,11 +153,11 @@
                         <li class="nav-item">
                             <a href="{{ route('tickets') }}" class="nav-link">{{ __('validation.header.support') }}</a>
                         </li>
-                        
+
                         <li class="nav-item">
                             <a href="{{ route('blog') }}" class="nav-link">{{ __('validation.header.blog') }}</a>
-                        </li> 
-                        
+                        </li>
+
                         <li class="nav-item">
                             <a href="{{ route('contacto') }}" class="nav-link">{{ __('validation.header.contact') }}</a>
                         </li>
@@ -165,11 +165,11 @@
                 </div>
             </div>
         </nav>
- 
+
  <a href="https://wa.me/573236567087/?text=Me%20interesa%20conocer%20mas%20acerca%20de%20sus%20servicios" style="position:fixed;
   width:60px;
   height:60px;
-  bottom:70px; 
+  bottom:70px;
   right:40px;
   background-color:#25d366;
   color:#FFF;
@@ -190,16 +190,16 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        
+
           <h5 class="modal-title" id="exampleModalLabel">Estamos trabajando para ti</h5>
-        
+
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      
+
       </div>
-        <div class="modal-body">        
+        <div class="modal-body">
       </div>
         <div class="modal-footer">
-        
+
         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
         <button type="button" class="btn btn-primary" id="btn-contact" href="malito: comercial@aytcol.com">Contactanos</button>
 
@@ -212,7 +212,7 @@
 <footer>
         <div class="footer-content">
             <div class="contact-info">
-            © Copyright 2024 <strong><span>HOMETIC S.A</span></strong> . All Rights Reserved
+            © Copyright 2025 <strong><span>HOMETIC S.A</span></strong> . All Rights Reserved
             </div>
             <div class="social-icons">
                 <a href="https://twitter.com/HometicSAS" class="social-icon"><i class="fa-brands fa-x-twitter"></i>
