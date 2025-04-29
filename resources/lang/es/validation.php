@@ -65,6 +65,7 @@ return [
 
     'home' => [
         'title' => 'Bienvenidos',
+        'atention' => 'Atención',
             'title-text' => 'Dedicados constantemente a mejorar la gestión y preservación documental
                             <br>
                             en las organizaciones.',

@@ -60,7 +60,7 @@
             <img src="{{ asset('assets/img/consultoria-index.png') }}" alt="Imagen 1">
             <div class="unique-overlay">
                 <h2>{{ __('validation.home.other-text') }}</h2>
- 
+
                 <a class="fancy" href="{{ route('gestiondoc') }}">
                     <span class="top-key"></span>
                     <span class="text">{{ __('validation.home.more') }}</span>
@@ -122,11 +122,11 @@
         <!-- Fila para el contador y el contenido adicional -->
         <div class="row justify-content-center">
             <!-- Columna para el nuevo elemento a la izquierda -->
-            <div class="col-lg-4 col-md-4 mt-5 mt-lg-0">
+            <div class="col-lg-4 col-md-4  ">
                 <div class="count-box">
 
                     <!-- Texto del nuevo elemento -->
-                    <h2></h2>
+                    <h2>{{ __('validation.home.atention') }}</h2>
                     <!-- Imagen del contenido adicional -->
                     <img src="{{ asset('assets/img/iconos/south-america-index.png') }}" alt="Descripción de la imagen 2" style="max-width: 25%;">
                     <h6>{{ __('validation.home.level') }}</h6>
@@ -134,13 +134,13 @@
                 </div>
             </div>
             <!-- Columna para el contador -->
-            <div class="col-lg-4 col-md-4 mt-5 mt-lg-0">
+            <div class="col-lg-4 col-md-4  ">
                 <div class="count-box">
                     <!-- Icono del contador -->
                     <i class="fas fa-award"></i>
                     <!-- Imagen del contenido adicional -->
-                    <img src="{{ asset('assets/img/iconos/eye-index.png') }}" alt="Descripción de la imagen 2" style="max-width: 30%;">
-                    <span><h6><a>{{ __('validation.home.visits') }}</a></h6></span>
+                    <img class='mt-3' src="{{ asset('assets/img/iconos/eye-index.png') }}" alt="Descripción de la imagen 2" style="max-width: 30%;">
+                    <span><h6><a class='mt-3'>{{ __('validation.home.visits') }}</a></h6></span>
                     <?php
                         $archivo = "archivo.txt";
                         $contador = intval(trim(file_get_contents($archivo)));
@@ -156,11 +156,11 @@
                 </div>
             </div>
             <!-- Columna para el contenido adicional a la derecha -->
-            <div class="col-lg-4 col-md-4 mt-5 mt-lg-0">
+            <div class="col-lg-4 col-md-4  ">
                 <div class="count-box">
                     <h2>{{ __('validation.home.than') }}</h2>
                     <!-- Imagen del contenido adicional -->
-                    <img src="{{ asset('assets/img/iconos/group-index.png') }}" alt="Descripción de la imagen 2" style="max-width: 30%;">
+                    <img src="{{ asset('assets/img/iconos/group-index.png') }}" alt="Descripción de la imagen 2" style="max-width: 25%;">
                     <h4>{{ __('validation.home.ages') }}</h4>
                     <h6>{{ __('validation.home.exp') }}</h6>
                 </div>

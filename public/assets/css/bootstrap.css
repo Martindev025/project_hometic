@@ -10277,7 +10277,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 /*--------------------------------------------------------------
-# Modal 
+# Modal
 --------------------------------------------------------------*/
 .modal-dialog {
   max-width: none;
@@ -10314,10 +10314,7 @@ a.text-dark:hover, a.text-dark:focus {
   position: relative;
   text-align: center;
   background: #fff;
-  
 }
-
-
 
 .counts .count-box i {
   position: absolute;

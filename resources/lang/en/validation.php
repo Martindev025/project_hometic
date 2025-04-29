@@ -54,6 +54,7 @@ return [
 
     'home' => [
         'title' => 'Welcome',
+        'atention' => 'Attention',
             'title-text' => 'Constantly dedicated to improving document management and preservation
                             <br>
                             in organizations.',
